@@ -1,0 +1,15 @@
+package com.wipro.prac;
+
+public class LargestOfTwoNumbers {
+
+	public static void main(String[] args) {
+		int a=100;
+		int b=21;
+		if(a>b) {
+			System.out.println(a);
+		}else {
+			System.out.println(b);
+		}
+	}
+
+}
