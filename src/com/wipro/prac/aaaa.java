@@ -14,28 +14,31 @@ public class aaaa {
 //		
 //		 System.out.println("a:"+a+", b:"+b);
 		
+//	public static void main(String[] args) {
+//		String  sen="ramesh is a good boy acmesh";
+//		String a[]=sen.split(" ");
+//		String small="";
+//	for(int i=0;i<a.length-1;i++) {
+//		for(int j=i+1;j<a.length-1;j++) {
+//		if(a[i].length()>a[j].length()) {//ramesh>is
+//			
+//			String temp=a[i];
+//			a[i]=a[j];
+//			a[j]=temp;
+//			
+//			
+//		}
+//		}
+//		
+//	}
+//	for(String word : a) {
+//		System.out.println(word);
+//	}
 	public static void main(String[] args) {
-		String  sen="ramesh is a good boy acmesh";
-		String a[]=sen.split(" ");
-		String small="";
-	for(int i=0;i<a.length-1;i++) {
-		for(int j=i+1;j<a.length-1;j++) {
-		if(a[i].length()>a[j].length()) {//ramesh>is
-			
-			String temp=a[i];
-			a[i]=a[j];
-			a[j]=temp;
-			
-			
-		}
-		}
-		
-	}
-	for(String word : a) {
-		System.out.println(word);
+		System.out.println(" updated one");
 	}
 
-	}	
+//	}	
 		
 
 }
